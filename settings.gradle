@@ -1,0 +1,3 @@
+rootProject.name = "Game 21"
+include ':app'
+include ':domain'
